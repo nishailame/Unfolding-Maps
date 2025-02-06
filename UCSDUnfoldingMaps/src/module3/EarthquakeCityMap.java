@@ -6,7 +6,7 @@ import java.util.ArrayList;
 //import java.util.Comparator;
 import java.util.List;
 
-//Processing library
+//Processing library for unfolding maps
 import processing.core.PApplet;
 
 //Unfolding libraries
